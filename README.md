@@ -6,4 +6,4 @@ Foco do projeto foi desenvolver apenas o back-end para fins de estudo, alterando
 
 ### Objetivos 
 Enteder e comprender as regras de negocio para desenvolvimento dos modelos do banco, utilizar e melhorar o uso do Typescript, 
-entrar em contado com o framework ORM Prisma e a bilioteca de Zod.
+entrar em contado com o framework ORM Prisma e a bilioteca Zod.
